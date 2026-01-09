@@ -50,7 +50,8 @@ var config = {
     },
     
     // Disable other unnecessary features
-    enableClosePage: false,
+    enableClosePage: true,
+    redirectOnClose: true,
     enableWelcomePage: false,
     disableInviteFunctions: false,
     
